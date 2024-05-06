@@ -4,7 +4,7 @@ import { TiShoppingCart } from "react-icons/ti";
 
 export default function header() {
   return (
-    <div className="bg-color-main ">
+    <div className="lg: bg-color-main bg-black">
       <div className="wrapper">
         <div className="flex justify-between items-center py-5">
           <Link href="#" className="text-white text-2xl font-extrabold">
